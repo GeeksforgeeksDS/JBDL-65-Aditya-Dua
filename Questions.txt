@@ -1,0 +1,28 @@
+What is Error?
+Can we handle the errors?
+What are the params to control the JVM’s memory size
+How to increase the memory allocated to Java
+What is Exit 0
+How do you debug OOM errors?
+
+Since the data in the AL class is Transient then how are ArrayList able to be deserialise?
+Impact of changing the SerialUID on the change of data members?
+How can Singleton classes be made Thread Safe?
+
+What is the difference between calling the run method or the start method
+What is the difference between sleep and yield
+What is a daemon thread
+What are the different priorities of a thread?
+
+What is AOP?
+What is DI?
+How is DI different from IoC
+What is bean in spring
+What are the scopes of bean
+What is the default scope of bean
+AOP : https://docs.spring.io/spring-framework/docs/2.5.5/reference/aop.html
+
+What is the overhead of parallel streams
+What should be ideal level of parrallelism
+
+Which Design pattern is followed by Spring Context
